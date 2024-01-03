@@ -399,6 +399,10 @@ body .full-width {
         grid-template-columns: 1fr;
     }
 
+    h2 {
+
+    }
+
 
     .gallery-img {
         width: 100%;
